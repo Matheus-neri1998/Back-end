@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.AssemblyInfo.cs
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.exe
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.deps.json
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.runtimeconfig.json
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.dll
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\bin\Debug\netcoreapp3.1\Condionais.pdb
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.dll
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.pdb
+C:\Users\dev\Desktop\Back-End\Back-end\Condicionais\obj\Debug\netcoreapp3.1\Condionais.genruntimeconfig.cache
